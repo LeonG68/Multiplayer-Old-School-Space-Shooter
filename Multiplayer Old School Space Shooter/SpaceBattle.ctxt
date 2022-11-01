@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SpaceBattle()
+comment1.params=
+comment1.target=void\ run()
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=fileName
+comment3.target=void\ constructImage3(java.lang.String)
+numComments=4

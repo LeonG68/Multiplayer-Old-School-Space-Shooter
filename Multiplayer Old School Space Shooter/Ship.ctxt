@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=r\ c\ fileName\ a\ b
+comment0.target=Ship(int,\ int,\ java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=java.awt.Image\ getPic()
+comment3.params=
+comment3.target=int\ getCol()
+comment4.params=
+comment4.target=int\ getRow()
+comment5.params=fileName
+comment5.target=void\ constructImage(java.lang.String)
+comment6.params=e
+comment6.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment7.params=e
+comment7.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment8.params=e
+comment8.target=void\ keyTyped(java.awt.event.KeyEvent)
+numComments=9
